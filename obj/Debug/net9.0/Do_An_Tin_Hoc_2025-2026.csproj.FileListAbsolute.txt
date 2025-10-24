@@ -1,0 +1,14 @@
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/bin/Debug/net9.0/Do_An_Tin_Hoc_2025-2026
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/bin/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.deps.json
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/bin/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.runtimeconfig.json
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/bin/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.dll
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/bin/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.pdb
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.AssemblyInfoInputs.cache
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.AssemblyInfo.cs
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.csproj.CoreCompileInputs.cache
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.dll
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/refint/Do_An_Tin_Hoc_2025-2026.dll
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.pdb
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/Do_An_Tin_Hoc_2025-2026.genruntimeconfig.cache
+/Users/toan/Desktop/Do_An_Tin_Hoc_2025-2026/obj/Debug/net9.0/ref/Do_An_Tin_Hoc_2025-2026.dll

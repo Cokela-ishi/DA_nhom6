@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Do_An_Tin_Hoc_2025-2026/1.0.0": {
+        "runtime": {
+          "Do_An_Tin_Hoc_2025-2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Do_An_Tin_Hoc_2025-2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

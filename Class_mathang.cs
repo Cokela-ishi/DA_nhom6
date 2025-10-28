@@ -2,10 +2,10 @@ using System;
 
 namespace DoAn
 {
-    class MatHang
+    public class MatHang
     {
         #region Attributes
-        private string maMatHang = "";
+        private string maMatHang ;
         private string tenMatHang = "";
         private decimal donGia;
         private int soLuong;

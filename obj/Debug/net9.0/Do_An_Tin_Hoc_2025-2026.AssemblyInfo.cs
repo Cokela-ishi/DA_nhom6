@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Do_An_Tin_Hoc_2025-2026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42f3226fd6c55c054908bd4ad0b71ba7b0531a52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d404e83b93e167949d6498f0d0e5dfbb8922c49")]
 [assembly: System.Reflection.AssemblyProductAttribute("Do_An_Tin_Hoc_2025-2026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Do_An_Tin_Hoc_2025-2026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
